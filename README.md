@@ -8,7 +8,7 @@
 ### Disclaimer
 Rodan framework is provided so that you can test your systems against threats, understand the nature of these threats, and protect your own systems from similar attacks. Do not attempt to violate the law using Rodan. If this is your intention, then LEAVE NOW!
 
-Any actions and/or activities related to the the uses of Rodan is solely your responsibility. The misuse of Rodan can result in criminal charges brought against the persons in question. The authors and Etisalat Egypt will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this website to break the law.
+Any actions and/or activities related to the uses of Rodan is solely your responsibility. The misuse of Rodan can result in criminal charges brought against the persons in question. The authors and Etisalat Egypt will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this website to break the law.
 
 ## Introduction
 
@@ -23,7 +23,7 @@ Rodan currently supports SS7 and Diameter protocols with plans to support GTP an
 
 ## Features
 
-* Network and Subscriber Information Diclosure.
+* Network and Subscriber Information Disclosure.
 * Location Tracking.
 * SMS Interception.
 * Call Redirection.
@@ -31,7 +31,7 @@ Rodan currently supports SS7 and Diameter protocols with plans to support GTP an
 * GT/Host Brute Forcing.
 * Advanced Filtering Bypass:
   * E.214 Numbering Plan
-  * Malfrmed ACN.
+  * Malformed ACN.
   * Substitution of Operation Code Tag.
   * Double MAP.
   * Calling Party/Origin Host Spoofing.
@@ -39,7 +39,7 @@ Rodan currently supports SS7 and Diameter protocols with plans to support GTP an
 
 Rodan has a look and feel similar to the Metasploit Framework, reducing the learning curve for leveraging the framework.
 
-**NOTE:** Knowlege of SS7 and Diameter signaling protocols is required to use Rodan framework
+**NOTE:** Knowledge of SS7 and Diameter signaling protocols is required to use Rodan framework
 
 # Installation instructions
 
@@ -97,7 +97,7 @@ $ sudo apt install lksctp-tools
   </mirrors>
 ```
 
-#### Build framework and stack extentions: 
+#### Build framework and stack extensions: 
 ```bash
 $ cd build/scripts
 $ chmod +x build-standalone.sh
